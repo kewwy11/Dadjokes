@@ -1,0 +1,1 @@
+Created this joke project using html, css, and JavaScript and fetched the jokes from an API. I used the fetch and async await method.
